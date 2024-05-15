@@ -1,0 +1,29 @@
+{
+   "movies" : [
+        {
+            "name"   : "Hook",
+            "genre"  : "Fantasy",
+            "rating" : 6.8
+        },
+        {
+            "name"   : "Toy Story",
+            "genre"  : "Animation",
+            "rating" : 8.3
+        },
+        {
+            "name"   : "The Lord of the Rings: The Fellowship of the Ring",
+            "genre"  : "Fantasy",
+            "rating" : 8.9
+        },
+        {
+            "name"   : "Birdemic: Shock and Terror",
+            "genre"  : "Thriller",
+            "rating" : 1.7
+        },
+        {
+            "name"   : "The Room",
+            "genre"  : "Drama",
+            "rating" : 3.6
+        }
+    ]
+}
