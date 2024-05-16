@@ -1,11 +1,10 @@
 /**
- * DOM.JS
- * 
+ * brut.js
  */
 
 
 // begin namespace
-const dom = {
+const brut = {
 
 
     /*************************************************************************** */
@@ -74,7 +73,7 @@ const dom = {
         // proceed with child tree
         for (child of children)
         {
-            dom.add(child, e);
+            brut.add(child, e);
         }
     }
 

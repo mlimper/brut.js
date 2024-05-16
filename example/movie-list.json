@@ -25,5 +25,21 @@
             "genre"  : "Drama",
             "rating" : 3.6
         }
+        ,
+        {
+            "name"   : "The Godfather",
+            "genre"  : "Drama",
+            "rating" : 9.2
+        },
+        {
+            "name"   : "The Godfather",
+            "genre"  : "Drama",
+            "rating" : 9.2
+        },
+        {
+            "name"   : "My Neighbor Totoro",
+            "genre"  : "Anime",
+            "rating" : 8.1
+        }
     ]
 }
